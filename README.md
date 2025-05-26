@@ -1,5 +1,7 @@
 # Sistema de Citas Médicas
 
+## Credits: Armando lorttia
+
 ## Instalación y Configuración
 
 1. Instalar JDK 11 desde [Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
@@ -7,3 +9,5 @@
 3. Clonar este repositorio:
    ```bash
    git clone https://github.com/tu_usuario/SistemaCitasMedicas.git
+
+
